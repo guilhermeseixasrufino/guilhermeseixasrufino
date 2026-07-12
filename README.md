@@ -1,6 +1,6 @@
 <div align="right">
 
-[🇧🇷 Português](./README.md) · 🇺🇸 English
+[🇧🇷 Português](./README-br.md) · 🇺🇸 English
 
 </div>
 
