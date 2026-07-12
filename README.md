@@ -4,8 +4,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:2196F3&height=140&section=header"/>
-
 <div align="center">
 
 <img src="sources/avatar.png" width="250" alt="Guilherme Seixas' avatar"/>
@@ -31,7 +29,7 @@
 
 <br>
 
-**Software Engineering** student (4th semester) focused on **web development**. Currently deepening my knowledge of **HTML, CSS and JavaScript**, with a foundation in **Python** and hands-on experience building apps and automations with the **Power Platform** (Power Apps, Power Automate and SharePoint). Creator of **[ConectaServ](https://www.conectaserv.site/)**, a platform that connects service providers to clients — my first published project.
+**Software Engineering** student focused on **web development**. Currently deepening my knowledge of **HTML, CSS and JavaScript**, with a foundation in **Python** and hands-on experience building apps and automations with the **Power Platform** (Power Apps, Power Automate and SharePoint). Creator of **[ConectaServ](https://www.conectaserv.site/)**, a platform that connects service providers to clients — my first published project.
 
 <br>
 
@@ -68,5 +66,3 @@
 <img src="https://komarev.com/ghpvc/?username=guilhermeseixasrufino&style=for-the-badge&color=2196F3&label=VISITORS" alt="Visitor counter"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:2a5298,100:1e3c72&height=140&section=footer"/>
