@@ -1,12 +1,12 @@
 <div align="right">
 
-🇧🇷 Português · [🇺🇸 English](./README.md)
+[🇺🇸 English](./README.md) · 🇧🇷 Português
 
 </div>
 
 <div align="center">
 
-<img src="sources/avatar.png" width="250" alt="Avatar de Guilherme Seixas"/>
+<img src="sources/avatar.png" width="450" alt="Avatar de Guilherme Seixas"/>
 
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=600&height=60&lines=GUILHERME+S.+RUFINO;FULLSTACK+EM+DESENVOLVIMENTO" alt="Guilherme S. Rufino — Fullstack em desenvolvimento"/>
