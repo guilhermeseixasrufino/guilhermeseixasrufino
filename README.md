@@ -1,12 +1,12 @@
 <div align="right">
 
-[🇧🇷 Português](./README-br.md) · 🇺🇸 English
+🇺🇸 English · [🇧🇷 Português](./README-br.md)
 
 </div>
 
 <div align="center">
 
-<img src="sources/avatar.png" width="250" alt="Guilherme Seixas' avatar"/>
+<img src="sources/avatar.png" width="450" alt="Guilherme Seixas' avatar"/>
 
 <br>
 
