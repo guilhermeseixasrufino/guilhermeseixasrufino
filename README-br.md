@@ -4,8 +4,6 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:2196F3&height=140&section=header"/>
-
 <div align="center">
 
 <img src="sources/avatar.png" width="250" alt="Avatar de Guilherme Seixas"/>
@@ -30,7 +28,7 @@
 
 <br>
 
-Estudante de **Engenharia de Software** (4º período) com foco em **desenvolvimento web**. Atualmente aprofundando **HTML, CSS e JavaScript**, com base em **Python** e experiência prática em automação e criação de aplicativos com a **Power Platform** (Power Apps, Power Automate e SharePoint). Criador do **[ConectaServ](https://www.conectaserv.site/)**, plataforma que conecta prestadores de serviço a clientes — meu primeiro projeto publicado.
+Estudante de **Engenharia de Software** com foco em **desenvolvimento web**. Atualmente aprofundando **HTML, CSS e JavaScript**, com base em **Python** e experiência prática em automação e criação de aplicativos com a **Power Platform** (Power Apps, Power Automate e SharePoint). Criador do **[ConectaServ](https://www.conectaserv.site/)**, plataforma que conecta prestadores de serviço a clientes — meu primeiro projeto publicado.
 
 <br>
 
@@ -52,24 +50,18 @@ Estudante de **Engenharia de Software** (4º período) com foco em **desenvolvim
 
 <div align="center">
 
-<!-- 🔥 Sequência de contribuições — cores customizadas em azul neon -->
 <img height="180" src="https://streak-stats.demolab.com?user=guilhermeseixasrufino&hide_border=true&locale=pt_BR&background=00000000&ring=2196F3&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=1e3c72" alt="Sequência de contribuições"/>
 
 <br><br>
 
-<!-- 📈 Gráfico de atividade — linha neon com área preenchida -->
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeseixasrufino&bg_color=00000000&color=58A6FF&line=2196F3&point=00BFFF&area=true&area_color=2196F3&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade"/>
 
 </div>
 
 <br>
 
-<!-- 👀 Contador de visitantes -->
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=guilhermeseixasrufino&style=for-the-badge&color=2196F3&label=VISITANTES" alt="Contador de visitantes"/>
 
 </div>
-
-<!-- 🌊 Onda de encerramento -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:2a5298,100:1e3c72&height=140&section=footer"/>
