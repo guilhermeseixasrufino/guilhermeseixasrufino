@@ -40,6 +40,8 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&theme=dark&perline=7" alt="HTML5, CSS3, JavaScript, Python, Git, GitHub and VS Code"/>
+<img src="sources/icon_powerapps.png" width="52" alt="Ícone Powerapps' avatar"/>
+<img src="sources/icon_sharepoint.png" width="52" alt="Ícone Sharepoint' avatar"/>
 
 </div>
 
