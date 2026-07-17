@@ -1,6 +1,6 @@
 <div align="right">
 
-[🇺🇸 English](./README.md) · 🇧🇷 Português
+[🇺🇸 English](https://github.com/guilhermeseixasrufino) · 🇧🇷 Português
 
 </div>
 
