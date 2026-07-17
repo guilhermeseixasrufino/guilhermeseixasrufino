@@ -53,11 +53,11 @@
 
 <div align="center">
 
-<img height="180" src="https://streak-stats.demolab.com?user=guilhermeseixasrufino&hide_border=true&background=00000000&ring=2196F3&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=1e3c72" alt="Contribution streak"/>
+<img height="180" src="https://streak-stats.demolab.com?user=guilhermeseixasrufino&hide_border=true&locale=pt_BR&background=00000000&ring=2196F3&fire=00BFFF&currStreakLabel=00BFFF&sideLabels=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=1e3c72" alt="Sequência de contribuições"/>
 
 <br><br>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeseixasrufino&bg_color=00000000&color=58A6FF&line=2196F3&point=00BFFF&area=true&area_color=2196F3&hide_border=true&custom_title=GitHub%20Activity" alt="Activity graph"/>
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermeseixasrufino&bg_color=00000000&color=58A6FF&line=2196F3&point=00BFFF&area=true&area_color=2196F3&hide_border=true&custom_title=Atividade%20no%20GitHub" alt="Gráfico de atividade"/>
 
 </div>
 
